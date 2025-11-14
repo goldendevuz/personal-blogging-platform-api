@@ -14,3 +14,5 @@ migration:
 	python3 manage.py makemigrations
 mig:
 	make migration & make migrate
+collect:
+	python manage.py collectstatic --no-input
