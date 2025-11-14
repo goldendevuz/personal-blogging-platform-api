@@ -6,3 +6,6 @@ django-taggit
 django-extensions
 django-jazzmin
 icecream
+uvloop
+uvicorn
+whitenoise
