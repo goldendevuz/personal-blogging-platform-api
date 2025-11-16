@@ -9,3 +9,4 @@ icecream
 uvloop
 uvicorn
 whitenoise
+gunicorn

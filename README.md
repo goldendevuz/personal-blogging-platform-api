@@ -1,4 +1,4 @@
-# Blogging Platform API
+# Personal Blogging Platform API
 
 This is an example API for a blogging platform using Django REST Framework.
 
